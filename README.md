@@ -82,8 +82,8 @@ An infographic was created using Canva to spread awareness about digital literac
 Profiles were created and updated on:
 
 * GitHub
-* LinkedIn
-* HackerRank
+* Kaggle
+* CodeChef
 
 These platforms help in building a professional identity and showcasing skills.
 
@@ -118,7 +118,7 @@ These platforms help in building a professional identity and showcasing skills.
 
 ## 🔗 GOOGLE FORM LINK
 
-(Add your Google Form link here)
+https://docs.google.com/forms/d/e/1FAIpQLSe_OmSOCOSJ3Nqp8ygqSgslKB0radVwUUJcBFlm-zz2QJm8vQ/viewform?usp=header
 
 ---
 
