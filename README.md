@@ -5,9 +5,9 @@
 
 ## 👩‍💻 STUDENT DETAILS
 
-* **Name:** (Your Full Name)
-* **Registration Number:** (Your Reg No.)
-* **Branch:** Computer Science and Engineering (CSE)
+* **Name:** Sneha Bakre
+* **Registration Number:** 25BCY10096
+* **Branch:** B.Tech CSE (Cybersecurity and digital forensics)
 * **Year:** First Year
 
 ---
@@ -138,8 +138,8 @@ Through this project, I have:
 
 * Canva
 * GitHub
-* LinkedIn
-* HackerRank
+* Kaggle
+* Stack Overflow
 * Google Forms
 * National Cyber Crime Portal (cybercrime.gov.in)
 
