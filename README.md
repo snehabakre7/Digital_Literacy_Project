@@ -38,29 +38,22 @@ As part of this project, various tasks were completed including creating an info
 ---
 
 ## PROJECT STRUCTURE
+# digital-literacy-project
+# README.md
+Project_Report.pdf
+# task-1-presentation/
+Infographic
+# task-2-portfolio
+Profile Screenshots
 
-```id="repo01"
-digital-literacy-project/
-│
-├── README.md
-├── report/
-│   └── Project_Report.pdf
-│
-├── task-1-presentation/
-│   └── Infographic
-│
-├── task-2-portfolio/
-│   └── Profile Screenshots
-│
-├── task-3-platforms/
-│   └── Coding + Google Form
-│
-├── task-4-email-etiquette/
-│   └── Emails + Checklist
-│
-├── task-5-cybercrime/
-│   └── Case Study + Prevention Tips
-```
+# task-3-platforms/
+ Coding + Google Form
+
+# task-4-email-etiquette/
+Emails + Checklist
+
+# task-5-cybercrime/
+ Case Study + Prevention Tips
 
 ---
 
