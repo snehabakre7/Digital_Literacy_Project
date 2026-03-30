@@ -1,9 +1,9 @@
 # Digital_Literacy_Project
-# 📘 DIGITAL LITERACY PROJECT
+# DIGITAL LITERACY PROJECT
 
 ---
 
-## 👩‍💻 STUDENT DETAILS
+## STUDENT DETAILS
 
 * **Name:** Sneha Bakre
 * **Registration Number:** 25BCY10096
@@ -12,14 +12,14 @@
 
 ---
 
-## 📚 COURSE DETAILS
+## COURSE DETAILS
 
 * **Course Code:** CSE0001
 * **Course Title:** Digital Literacy
 
 ---
 
-## 📌 PROJECT OVERVIEW
+## PROJECT OVERVIEW
 
 This Digital Literacy Project is designed to develop essential skills required for effective and responsible use of digital technologies. The project focuses on understanding digital tools, improving communication skills, and learning safe internet practices.
 
@@ -27,7 +27,7 @@ As part of this project, various tasks were completed including creating an info
 
 ---
 
-## 🎯 OBJECTIVES
+## OBJECTIVES
 
 * To understand the concept of digital literacy
 * To learn safe and secure internet practices
@@ -37,7 +37,7 @@ As part of this project, various tasks were completed including creating an info
 
 ---
 
-## 📂 PROJECT STRUCTURE
+## PROJECT STRUCTURE
 
 ```id="repo01"
 digital-literacy-project/
@@ -64,9 +64,9 @@ digital-literacy-project/
 
 ---
 
-## 📝 TASK DETAILS
+## TASK DETAILS
 
-### 🔹 TASK 1: DIGITAL LITERACY INFOGRAPHIC
+### TASK 1: DIGITAL LITERACY INFOGRAPHIC
 
 An infographic was created using Canva to spread awareness about digital literacy. It includes:
 
@@ -77,7 +77,7 @@ An infographic was created using Canva to spread awareness about digital literac
 
 ---
 
-### 🔹 TASK 2: DIGITAL PORTFOLIO
+### TASK 2: DIGITAL PORTFOLIO
 
 Profiles were created and updated on:
 
@@ -89,7 +89,7 @@ These platforms help in building a professional identity and showcasing skills.
 
 ---
 
-### 🔹 TASK 3: CODING & COLLABORATION PLATFORMS
+### TASK 3: CODING & COLLABORATION PLATFORMS
 
 * Solved a beginner-level coding problem on HackerRank
 * Created a Google Form quiz on digital literacy
@@ -97,7 +97,7 @@ These platforms help in building a professional identity and showcasing skills.
 
 ---
 
-### 🔹 TASK 4: EMAIL ETIQUETTE & SOCIAL MEDIA CHECKLIST
+### TASK 4: EMAIL ETIQUETTE & SOCIAL MEDIA CHECKLIST
 
 * Drafted formal emails for:
 
@@ -107,7 +107,7 @@ These platforms help in building a professional identity and showcasing skills.
 
 ---
 
-### 🔹 TASK 5: CYBERCRIME AWARENESS
+### TASK 5: CYBERCRIME AWARENESS
 
 * Studied cybercrime cases such as phishing and UPI fraud
 * Created a prevention checklist with safety tips
@@ -116,13 +116,13 @@ These platforms help in building a professional identity and showcasing skills.
 
 ---
 
-## 🔗 GOOGLE FORM LINK
+## GOOGLE FORM LINK
 
 https://docs.google.com/forms/d/e/1FAIpQLSe_OmSOCOSJ3Nqp8ygqSgslKB0radVwUUJcBFlm-zz2QJm8vQ/viewform?usp=header
 
 ---
 
-## 📊 LEARNING OUTCOMES
+## LEARNING OUTCOMES
 
 Through this project, I have:
 
@@ -134,7 +134,7 @@ Through this project, I have:
 
 ---
 
-## 📖 REFERENCES
+## REFERENCES
 
 * Canva
 * GitHub
@@ -145,7 +145,7 @@ Through this project, I have:
 
 ---
 
-## ✅ CONCLUSION
+## CONCLUSION
 
 This project provided valuable insights into the importance of digital literacy in today’s world. It helped in developing both technical and communication skills while also emphasizing safe and responsible use of the internet. The knowledge gained from this project will be useful in academic and professional growth.
 
