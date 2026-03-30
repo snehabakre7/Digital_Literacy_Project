@@ -39,16 +39,20 @@ As part of this project, various tasks were completed including creating an info
 
 ## PROJECT STRUCTURE
 **1. digital-literacy-project**  
+
 **2. README.md**  
+
 **3. Project_Report.pdf**  
+
 **4. task-1-presentation**  
 Infographic  
+
 **5. task-2-portfolio**  
 Profile Screenshots  
 
 **6. task-3-platforms**  
  Coding + Google Form  
-
+ 
 **7. task-4-email-etiquette**  
 Emails + Checklist  
 
