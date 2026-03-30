@@ -80,7 +80,7 @@ Profiles were created and updated on:
 
 * GitHub
 * Kaggle
-* CodeChef
+* Stack Overflow
 
 These platforms help in building a professional identity and showcasing skills.
 
@@ -88,7 +88,7 @@ These platforms help in building a professional identity and showcasing skills.
 
 ### TASK 3: CODING & COLLABORATION PLATFORMS
 
-* Solved a beginner-level coding problem on HackerRank
+* Solved a beginner-level coding problem on CodeChef
 * Created a Google Form quiz on digital literacy
 * Analyzed responses using Google Sheets
 
